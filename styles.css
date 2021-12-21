@@ -40,11 +40,10 @@ p {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    text-decoration-line: none;
     margin-top: -70px;
     flex-direction: row;
     gap: 30px;
-  
+    text-decoration-line: none;
 
 }
 
